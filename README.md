@@ -25,11 +25,11 @@ make clean
 ```
 
 ## Deploy
-You must have serverless setup to deploy this to AWS. Once done
+You must have serverless setup to deploy this to AWS. Once done run
 ```
 make deploy
 ```
 
 ## Credits
 
-Orignal Idea: https://github.com/dschep/geoip-lambda-layer
+Original Idea: https://github.com/dschep/geoip-lambda-layer

@@ -27,3 +27,6 @@ endif
 
 clean:
 	rm -rf layer
+
+deploy:
+	serverless deploy
